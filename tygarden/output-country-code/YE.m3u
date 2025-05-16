@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Yemen Shabab Channel
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Yemenia TV
+https://ffs3.gulfsat.com/YEMENIA/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Masirah
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Masirah Mubacher
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Belqees TV
+https://ythls.armelin.one/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8

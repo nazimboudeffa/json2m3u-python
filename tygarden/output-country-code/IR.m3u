@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Nasim
+https://live.aionet.ir/hls/nasim/nasim.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Negah TV
+https://iptv.negahtv.com/negahtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Omid-e-Iran TV
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VOX1
+https://hls.vox1.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Amouzesh TV
+https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB 1
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB 1
+https://af.ayas.ir/hls2/tv1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB 2
+https://live.aionet.ir/hls/tv2/tv2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB 2
+https://af.ayas.ir/hls2/tv2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB 3
+https://af.ayas.ir/hls2/tv3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB 3
+https://live.aionet.ir/hls/tv3/tv3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB 4
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB 5
+https://live.aionet.ir/hls/tv5/tv5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRIB Mostanad
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PBC Tapesh TV
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PBC Tapesh TV
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bravo Farsi TV
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FX 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",iFilm 2
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",iFilm Arabic
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",iFilm English
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",iFilm Persian
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Persian Film
+https://pfilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",High Vision TV
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",High Vision TV
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Alam
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Iran Press
+https://ip2stream.iranpress.com/hls/ip2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IRINN
+https://live.aionet.ir/hls/irinn/irinn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Press TV French
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SNN TV
+https://live2.snn.ir/hls/snn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Abalfadhl TV
+https://t.northtelecom.org/ABALFADHLTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Wilayah
+https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HodHod Farsi TV
+https://hls.hodhod.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mohabat TV
+https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Payvand TV
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bravo Farsi TV
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aio Sport 1
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aio Sport 2
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8

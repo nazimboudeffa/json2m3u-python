@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Carac 1
+https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Carac 2
+https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Carac 3
+https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Carac 4
+https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rakuten TV Family Movies
+https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alpenland TV
+https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Drita TV
+https://protokolldns.xyz/dritaweb2023ds/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",QS24.tv
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rakuten TV Family Movies
+https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sofy TV
+https://sofytv-samsunges.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sofy TV
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sofy TV
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sofy TV
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sofy TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Couleur 3
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",M Le Media
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/ch/M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Die Neue Zeit TV
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Die Neue Zeit TV
+https://www.onairport.live/die-neue-zeit-tv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTV Islam
+https://protokolldns.xyz/rtvislamweebstdkksdfsdjkd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Shiva Live TV
+https://streameurope.ch/live/shivalivetv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Shiva Live TV
+https://ythls.armelin.one/channel/UCi1UffPLvT0PbmU1qGVjlMQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SKI TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SKI TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SKI TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8

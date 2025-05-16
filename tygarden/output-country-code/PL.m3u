@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radiowa Czworka
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Belsat TV
+https://ythls.armelin.one/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BTB HD
+https://ythls.armelin.one/channel/UCNmXUDT4hoiHhtzPvCfJOeQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HTS Slubice
+https://ythls.armelin.one/channel/UCENo4wEDe_59Bb8rGGMZl_w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Swiebodzin TV
+https://ythls.armelin.one/channel/UCEQZDk3FFLNM67Hx4jQaXVw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Gorzow
+https://ythls.armelin.one/channel/UCt5sVDyzu0NhrjR-d_b-lhg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Imperium
+https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Jaslo
+https://cdn02.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Narew
+https://ythls.armelin.one/channel/UCdBYAZdagaQcr-Fe15ifMPQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Olsztyn
+https://ythls.armelin.one/channel/UC0vwjMGoZpwG_lLBuF6_ALA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Regionalna Zary
+https://ythls.armelin.one/channel/UC29dc_mBUWW4mz5h754v88w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Relax
+https://ythls.armelin.one/channel/UCZvmZep3wknWdBPcKnwsPHA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Sudecka
+https://ythls.armelin.one/channel/UC2vPjreaN9Jpan45p66H7hA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telewizja Zabrze
+https://ythls.armelin.one/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV ASTA
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Dami
+https://ythls.armelin.one/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Slowianin
+https://ythls.armelin.one/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zachodniopomorska Telewizja
+https://ythls.armelin.one/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTVP
+https://ythls.armelin.one/channel/UCU7uwCYami150L_lydp2OHQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Truso TV
+https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVMN
+https://r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Wielkopolska
+https://ythls.armelin.one/channel/UCVItG8Ke6xMGhQAi8HP5WCg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EWTN Poland
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hope Channel Polska
+https://stream.hopechannel.pl/livetv/colombo/hope.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",KTV Serbinow
+https://ythls.armelin.one/channel/UCcYdi3Y11OndqAYkGhLsm8A.m3u8

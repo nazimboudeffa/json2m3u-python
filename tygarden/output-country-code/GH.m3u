@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Faculty TV
+https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CeeJay TV
+https://asiakwa.com/ceejaytv/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Adom TV
+https://ythls.armelin.one/channel/UCKlgbbF9wphTKATOWiG5jPQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ChannelOne TV
+https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GHLife TV
+https://stream-server9-jupiter.muxlive.com/hls/ghlifetv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",The Base Gospel
+https://asiakwa.com/thebasetv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AIT TV
+https://livetv.tvait.com:1935/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Joy News
+https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Net2 TV
+https://ythls.armelin.one/channel/UCKpFgDhnwRvUauqsd5h98fw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hope Channel Ghana
+https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MOGPA TV
+https://livestream.anojed.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

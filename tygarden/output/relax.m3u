@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",10 Bold Sydney
+https://i.mjh.nz/10bold-nsw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Adult Swim Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Adult Swim Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",earthTV
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fireplace Lounge
+https://d300k472vyqakg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aijrtvzii4xsm-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "CanalMotor.no",
+    "name": "Canal Motor",
+    "stream_urls": [
+      "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+      "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "NO"
+  },
+  {
+    "id": "Choppertown.us",
+    "name": "Choppertown",
+    "stream_urls": [
+      "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
+      "https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8",
+      "https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "GarageTVLatinAmerica.ar",
+    "name": "Garage TV Latin America",
+    "stream_urls": [
+      "https://stream1.sersat.com/hls/garagetv.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "MotorSurMedia.py",
+    "name": "Motor Sur Media",
+    "stream_urls": [
+      "https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PY"
+  },
+  {
+    "id": "Motorvision.de",
+    "name": "Motorvision",
+    "stream_urls": [
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "id": "PowerNationTV.us",
+    "name": "PowerNation TV",
+    "stream_urls": [
+      "https://a3d7c6b7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1jYV9SVE1UVkNoYW5uZWxfSExT/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "RPM.za",
+    "name": "RPM",
+    "stream_urls": [
+      "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "UK"
+  }
+]

@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Retrox TV
+https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Costa Rica Channel
+https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV+
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Multizonas TV
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MetaVersus CR
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",¡OPA!
+https://opa.usastreams.com:3101/live/canalopalive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tica TV+
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 1
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 1
+https://video20.klm99.com:3993/live/canal1crlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 17 TV Nosara
+https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 6
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 8
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Caribe TV CR
+https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cartago Medios TV
+https://tvdatta.com:3384/live/cartagomedioslive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Comunicaciones Jimenez
+https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Coto Brus TV
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Faro Puntarenas TV
+https://rpn3.bozztv.com/ssh101/ssh101/faroptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Garabito TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Los Santos TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Meganet TV
+https://250weu.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Puerto TV
+https://cloudvideo.servers10.com:8081/8256/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTV Chirripo
+https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TDtv
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TeleBrunca
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telered Television
+https://video20.klm99.com:3558/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TicaVision
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Trece Costa Rica Television
+https://rpn3.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zurqui TV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Legislativa
+https://ythls.armelin.one/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 3 KMK TV
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IQ Channel
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SOY Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VoiceOver Radio TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Xpresso Joven Radio
+https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zona Music TV
+https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Norte Informativo TV
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cristo Vision Canal 31
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Enlace Juvenil
+https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Extrema TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Luz Naciente TV
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",San Jose TV
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mas Ciclismo TV
+https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mas Ciclismo TV
+https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Costa Rica Channel
+https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",ArubaTV +
+https://5caf24a595d94.streamlock.net:1937/kmdbgtygtx/kmdbgtygtx/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cool FM 98.9
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Heart Radio Aruba
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Power 101.7 FM
+https://vcp3.myplaytv.com/powerfm/powerfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VIP TV
+https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8

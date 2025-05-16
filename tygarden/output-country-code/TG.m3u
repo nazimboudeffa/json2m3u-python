@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",NW Economie
+https://hls.newworldtv.com/nw-economie/video/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NW Magazine
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Direct 7 TV
+https://helga.iptv2022.com/DIRECT__7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NW Info
+https://hls.newworldtv.com/nw-info/video/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NW Info 2
+https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AC TV
+https://ssh101.bozztv.com/ssh101/actvstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dynamic Gospel TV
+https://ssh101.bozztv.com/ssh101/tvdynamicstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LNTV
+https://helga.iptv2022.com/sh/LNTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT JVA
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SMATogoTV
+https://smatogo.tv:89/smatogo/smatogo.m3u8

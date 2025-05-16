@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",8TV
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SelangorTV
+https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hot TV
+https://ythls.armelin.one/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Astro Awani
+https://ythls.armelin.one/channel/UC5dYmq91e5_g54krpO06NJw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8

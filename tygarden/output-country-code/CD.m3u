@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",RL PRO TV
+https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",B-One TV
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/Bone-tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CNTV
+https://tv1.isi-broadcast.tech/CN-TV_CANAL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EVI TV
+https://stream.telepack.net/evitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Congo Planet Television
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Digital Congo TV
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/DIGITAL-TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EGG PRO TV
+https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Numerica TV
+https://tv1.isi-broadcast.tech/NUMERICA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PSTV HD
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/HDLIVE1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTNC
+https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTNC
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/RTNC-1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tele 50
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/TELE-50/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tokomi Wapi TV
+https://tv1.isi-broadcast.tech/TOKOMI-WAPI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",10'eme Rue TV
+https://tv1.isi-broadcast.tech/10eme-tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Congo Live TV
+https://ythls.armelin.one/channel/UCU9aU4RtgSnB5elKQYGjFuQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Geopolis TV
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/GeopoliceTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CCPV Television
+https://tv1.isi-broadcast.tech/CCPV-TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",King TV
+https://tv1.isi-broadcast.tech/KING_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Metanoia TV
+https://tv1.isi-broadcast.tech/METANOIA-STREAM1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mishapi Voice TV
+https://tv1.isi-broadcast.tech/MISHAPI-STREAM1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ONE-TV
+https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Parole Eternelle TV
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/PAROLETV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pourim RTV
+https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SSM TV
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/SSM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VOICI L'HOMME TV
+https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8

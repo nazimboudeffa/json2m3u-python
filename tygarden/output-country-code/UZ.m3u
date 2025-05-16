@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",YangiKulgu TV
+https://ythls.armelin.one/channel/UC9OpmkDt-iR0sNAL29_zPJw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BIZ TV
+https://st.biztv.uz/hls/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RizaNova TV
+https://ythls.armelin.one/channel/UCDPnSqLmYqHadD6VkrRiarg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bolajon
+https://st1-allplay-uz.b-cdn.net/3/iptv-58/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BIZ Cinema
+https://st.biztv.uz/hls/c_hi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BIZ Music
+https://st.biztv.uz/hls/m_hi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Azon TV
+https://ythls.armelin.one/channel/UCneJYS2Xf_a2a1ealwZb7mQ.m3u8

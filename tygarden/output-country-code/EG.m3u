@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Kahera Wal Nas
+https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al-Nahar
+https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CBC
+https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MBC Masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TeN
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Watan TV
+https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CBC Sofra
+https://ythls.armelin.one/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NogoumFMTV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Ghad TV
+https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Qahera News
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Qahera News
+https://ythls.armelin.one/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Extra Live
+https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Extra News
+https://ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alfath Atfal TV
+https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alfath Sonnah TV
+https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alfath TV
+https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Rahma
+https://ythls.armelin.one/channel/UCY9j0n2-prtlMHUnnLA9dTw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Coptic TV
+https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Coptic TV
+https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MESat
+https://ythls.armelin.one/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",The Kingdom Sat
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CAF TV
+https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8

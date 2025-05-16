@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",MAX Anime
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal Cultura Venezuela
+https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal Diplomatico
+https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PLTV
+https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ShowVen TV
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Guaro TV
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mas Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MDA Television
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sucre tv
+https://stream.oursnetworktv.com/latin/sucretv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",YATVO
+https://rpn3.bozztv.com/ssh101/ssh101/yatvo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Familia
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Barinas TV
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 21 Tachira
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal Nubeh TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Catatumbo TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Chivacoa TV Internacional
+https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Globovision
+https://ythls.armelin.one/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Globovision
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Glow TV
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Latina TV
+https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Monagas Vision
+https://cloud2.streaminglivehd.com:1936/monagasvision/monagasvision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Onza TV
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Somos TV
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TAM TV
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telebocono
+https://rpn3.bozztv.com/ssh101/ssh101/tcbstreaming/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telecentro
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telecolor
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telesol TV
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Televen
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNO Radio
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Torococo TV
+https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TRT
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TRV
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Andes
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVes
+https://ls.tves.gob.ve/hls/tves.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVS
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Unare TV
+https://srv.panelcast.net/yohancarlos/yohancarlos/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",UniTV
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vale TV
+https://cloud.fastchannel.es/manifiest/hls/valetv/valetv_480p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Venevision
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VIVOplay
+https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal Cultura Venezuela
+https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Italianissimo
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",KandelaTV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Oxigeno TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Panavision
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RLV TV
+https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ShowVen TV
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Televisora de Oriente
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vepaco TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal I
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La Iguana TV
+https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telesur English
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VPItv
+https://ythls.armelin.one/channel/UCVFiIRuxJ2GmJLUkHmlmj4w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VPItv
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Audaz TV
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fe Television
+https://stream.oursnetworktv.com/latin/Canal75/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LGD Television
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EXC TV
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sun Channel
+https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8

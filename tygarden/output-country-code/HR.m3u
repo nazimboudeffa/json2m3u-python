@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBTV
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Klape i Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",OTV
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8

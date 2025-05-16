@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Ciracu TV
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Educa TV
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",UCSG TV
+https://ythls.armelin.one/channel/UCH5499PHqkqKPsGEUJl5lZg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",UEBI TV Online
+https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",UNIANDES TV
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La Nueva Radio TV 97.7
+https://cp.panelchs.com:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LatacungaTV
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Monse Teve
+https://cp.panelchs.com:1936/jczwykvkpm/jczwykvkpm/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTV Naranjal
+https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Senal Positiva TV
+https://eu1.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Teledigital
+https://tv.portalexpress.es:3182/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",America Estereo Guayaquil
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",America Estereo Ibarra
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",America Estereo Quito
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",America Estereo Tulcan
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Capricho TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Curiquingue TV
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Duende Tv
+https://ed29ov.live.opencaster.com/EDokztdeHFwk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Duran TV
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La Pipol Tv
+https://cp.panelchs.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La Victoria TV
+https://paneltv.jlsolutionpc.com:3379/live/victorialive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Majestad Television
+https://go.majestadtv.ec/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Manavision
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Marca TV
+https://eu1.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nortvision
+https://plataformavideo.com/live/nortvision.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nuka TV
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio La Original TV
+https://cloudvideo.servers10.com:8081/8216/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTV
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Scandalo TV
+https://ssh101-fl.bozztv.com/ssh101/scandalotv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Austro
+https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Color Canal 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Wuan+
+https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pantalla Clasica EC
+https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EcuaMundo Radio TV
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ecua Stereo Radio TV
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",El Sol Network TV
+https://server40.servistreaming.com:3174/live/elsolnetworklive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La Perla Radio TV
+https://eu1.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Latina Mix Radio Tv
+https://srv.panelcast.net/latinamixtvtv2021/latinamixtvtv2021/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Metropoli Medios TV
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Princesa Estereo TV
+https://cp.panelchs.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Alegria 98.5 FM
+https://video.compuwebecuador.com:3880/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Bonita 106.7
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Cuenca Estereo
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Monumental TV
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Rocafuerte TV
+https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vos y TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mario Pinto TV
+https://eu1.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PrensaEc
+https://ssh101-fl.bozztv.com/ssh101/prensaec/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTU
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-logo="" group-title="",Ficoa TV
+https://ssh101-fl.bozztv.com/ssh101/FicoaTVM/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IeanJesus Ecuador
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pantalla Clasica EC
+https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La Redonda TV
+https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8

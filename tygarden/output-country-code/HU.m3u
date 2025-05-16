@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Alfold TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Golya TV
+https://stream.streaming4u.hu/GolyaTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zuglo TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",16tv Budapest
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",7.TV
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ATV
+https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ATV
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bajai TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Berente TV
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BTV
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Budapest Europa Televizio
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",City TV
+https://citytv.hu/media/live/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Csurgo TV
+https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Daru TV
+https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Egyker TV
+https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ESTV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fonix TV
+https://stream.streaming4u.hu/FonixTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Globo TV
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Gyongyosi TV
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hevizi TV
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kanizsa TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Karcag TV
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kiskoros TV
+https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Komaromi Televizio
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ladany TV
+https://ythls.armelin.one/channel/UCnG322MGBA4q5QWwDzUTh0Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mezokovesdi Televizio
+https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Miskolc TV
+https://video.mhzrt.hu/live/mitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mora-Net TV
+https://stream.moranettv.hu/live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NYTV
+https://ythls.armelin.one/channel/UCx7cFh63AWsK3cbfgX3GaaQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Obuda TV
+https://stream.streaming4u.hu/ObudaTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Oroszlanyi Varosi Televizio
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PilisTV
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RegioPlusz TV
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SIXO TV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Szarvasi Televizio
+https://ythls.armelin.one/channel/UCI25fQ-PhqM2vsdQRLcR8bw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Szolnok TV
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tatai TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TelePaks
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Trimedio TV
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV2040
+https://ythls.armelin.one/channel/UC9-eDX-ZzjriryVPE2VnEfQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Keszthely
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Szentendre
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vasarhelyi Televizio
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Volgyhid TV
+https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VTV Mor
+https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",XV TV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Orszaggyules: OGY plenaris
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Orszaggyules: OGY TAB
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hangulat TV
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Apostol TV
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EWTN/Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Gran TV
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8

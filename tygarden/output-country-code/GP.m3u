@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Radio TV Basse-Terre
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TEVEKA
+https://www.teveka.net:8443/show/teveka/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Madras FM TV
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RHT Guadeloupe
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8

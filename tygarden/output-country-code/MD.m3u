@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Drochia TV
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/a7784517-4451-4cea-a159-f42847a2aaf7/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Moldova 2
+https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",N4
+https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVR Moldova
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Busuioc TV
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Publika TV
+https://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Publika TV
+https://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Realitatea TV
+https://realitatealive.md/tv/rlive.m3u8

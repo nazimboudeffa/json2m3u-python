@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bloomberg TV Asia Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HOY TV
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HOY TV
+https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HKSTV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HOY TV
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HOY TV
+https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",i-CABLE News Channel
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Phoenix InfoNews Channel
+https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Creation TV
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8

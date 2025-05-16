@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Top Channel
+https://trueodin.serv00.net/?t=topnewsal
+#EXTINF:-1 tvg-logo="" group-title="",Tropoja Televizion
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Apollon
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 tvg-logo="" group-title="",Vizion Plus
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zjarr TV
+https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",City TV
+https://vs.sednastream.com:1936/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Folklorit TV
+https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Siti Shqip TV
+https://vs.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Euronews Albania
+https://ythls.armelin.one/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ntv
+https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8

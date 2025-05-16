@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",CS History
+https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CS Mystery
+https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",JC1
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jihoceska televize
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kuryr TV
+https://stream-35.mazana.tv/jc2.jc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Plzen TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Polar2
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Televize FILMpro
+https://ythls.armelin.one/channel/UCijOX8ka7E2cBsULVgY50QA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Brno 1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVMohelnice
+https://ythls.armelin.one/channel/UCr8xNHreYlR3gOjXnd82PBQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Morava
+https://ythls.armelin.one/channel/UCW33LPZQ1SA7ByUW6GeKRGw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Noe+
+https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CS Film
+https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ocko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Slager Muzika
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1 tvg-logo="" group-title="",Slager Original
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1 tvg-logo="" group-title="",Slager Premium
+https://stream-15.mazana.tv/slagrpremium.m3u

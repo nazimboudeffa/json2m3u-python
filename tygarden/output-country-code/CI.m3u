@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",BATIR-TV
+https://webstreaming.viewmedia.tv/web_021/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Business 24 Africa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Champion TV
+https://neriyastreaming.ddns.net/memfs/b92b5d69-7f44-4ae8-a00a-40d70623b1e6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Afroculture TV
+https://helga.iptv2022.com/sh/Afroculture/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Golden Sweet TV
+https://helga.iptv2022.com/sh/GOLDEN_SWEET_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LM TV French
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NCI
+https://pixa.cdn.easybroadcast.fr/nci/nci.isml/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tchaman TV
+https://itelema.stream/live/smil:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Guide Love TV
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",7 Info
+https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",UGF TV
+https://ugftv.stream/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alpha et Omega TV
+https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Christ Live
+https://voozmedia.fun/stream/christlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Divin Amour TV
+https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Esperance TV
+https://ik084235.ikoula.com/hls/Diff@mobile1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Parole Parlee TV
+https://ythls.armelin.one/channel/UCTWC45fM79-R8wFQPosO1xg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Novela Channel
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Passion Novelas
+https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8

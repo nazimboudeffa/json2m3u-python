@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",ART
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-82/fdd0-tbln/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",10 Channel
+https://tv.mediacp.eu:8081/10channel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aeolos TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aigaio TV
+https://250weu.bozztv.com/ssh101/ssh101/aigaiotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ART TV
+https://til.pp.ua:3711/live/arttvgr70live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Blue Sky TV
+https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Center TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Diktyo TV
+https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dipso TV
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Epiloges TV
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Flash TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Gnomi TV
+https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Lepanto TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ORT
+https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Syros TV1
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telekriti
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Thessalia TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Thraki Net TV
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Kosmos
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvkosmosgr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Smile TV
+https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hellenic Parliament TV
+https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hellenic Parliament TV
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hellenic Parliament TV 2
+https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hellenic Parliament TV 3
+https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",34100 TV
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alfa Dramas
+https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Baraza TV
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Baraza TV
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ellinikos FM
+https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NG
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Panik TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Real Music TV
+https://livetv.streams.ovh:1936/realmusictv/realmusictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RedMusic
+https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Xalastra TV
+https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alert TV
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AstraTV
+https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BCI 24 News
+https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ERT News
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FORMedia TV
+https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Naftemporiki TV
+https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Prime News TV
+https://vdo.alphaserver.gr:3411/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Start TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TRT
+https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Lychnos TV
+https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pemptousia TV
+https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Abood TV
+https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TBC2
+https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_36e8f510dfee11ec9dc2d5b207a2c04f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dodoma TV
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TBC1
+https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReemeA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hope Channel Tanzania
+https://ythls.armelin.one/channel/UCd-Q13Ld2cuutzCcQk7OD8w.m3u8

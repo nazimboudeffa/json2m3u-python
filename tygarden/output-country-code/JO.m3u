@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Amman TV
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Roya TV
+https://roya-live.ercdn.net/roya/roya.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Roya TV
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Melody FM
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Toyor Al-Jannah
+https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alhaqeqa Aldawlia
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Mamlaka TV
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Roya News
+https://roya-live.ercdn.net/royanews/royanews.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Al Hakika TV
+https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8

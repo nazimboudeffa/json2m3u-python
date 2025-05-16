@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Multimania
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RBK-TV
+https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RBK-TV
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BRIDGE Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Russia-K
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1 tvg-logo="" group-title="",RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT Documentary English
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT Documentary Russian
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT Documentary Russian
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT Documentary Russian
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Friday! International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ratnik
+https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",U
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",U
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",STS
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",360°
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",360°
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",360°
+https://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",86
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Abaza TV
+https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Almaznyy kray
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bashkortostan 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Belgorod 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BelRos
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel 12
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel 12
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel One
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-logo="" group-title="",Channel One
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Gorodskoy telekanal
+https://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kavkaz 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mir
+https://strm.yandex.ru/kal/mir24/mir0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTV
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTR-Planeta Asia
+https://player.smotrim.ru/iframe/stream/live_id/63254
+#EXTINF:-1 tvg-logo="" group-title="",RTR-Planeta CIS
+https://player.smotrim.ru/iframe/stream/live_id/63253
+#EXTINF:-1 tvg-logo="" group-title="",RTR-Planeta Europe
+https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1 tvg-logo="" group-title="",RTR-Planeta Europe
+https://player.smotrim.ru/iframe/stream/live_id/63251
+#EXTINF:-1 tvg-logo="" group-title="",Russia-1
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1 tvg-logo="" group-title="",Tsentr Krasnoyarsk
+https://stream.tck.tv/hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV BRICS Russian
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zvezda
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zvezda
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zvezda
+https://streaming.televizor-24-tochka.ru/live/748.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Baby Time
+https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Carousel
+https://streaming.televizor-24-tochka.ru/live/232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Multimania
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nicktoons CIS
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radost Moya
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tamyr
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Duma TV
+https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTV Style
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTV Style
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dom kino
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dom kino
+https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Baby Time
+https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BRIDGE
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BRIDGE Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BRIDGE Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BRIDGE Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BRIDGE Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BRIDGE Russian Hit
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BRIDGE Schlager
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Matur TV
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Muz Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Muz-TV
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RU.TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RU.TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Shanson TV
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Shanson TV
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Strana FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",360° News
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",360° News
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Astrahan 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Astrahan 24
+https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Legendarnyy 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mir 24
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT
+https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT en Espanol
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT en Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Russia-24
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Russia-24
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 tvg-logo="" group-title="",Russia-24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tolk HD
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",3ABN Russia
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hope Channel Russia
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hope Channel Russia
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Huzur TV
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kabbala TV
+https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Muz Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nebesa TV7
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Spas
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTV-Hit
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTV-Hit
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTV Series
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTV Series
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Magnat
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Yuvelirochka
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Astrahan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Start
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Start Triumf
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Start Triumf
+https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RT
+https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nasha Sibir
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTG TV
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8

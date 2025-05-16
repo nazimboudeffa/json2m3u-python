@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Dabanga TV
+https://cdn-cf.dabangasudan.org/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tayba TV
+https://mn-nl.mncdn.com/tayba/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dabanga TV
+https://cdn-cf.dabangasudan.org/hls/stream.m3u8

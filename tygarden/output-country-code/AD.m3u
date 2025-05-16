@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Loria TV
+https://ythls.armelin.one/channel/UCCCnrECJpv84QKM4olodZOQ.m3u8

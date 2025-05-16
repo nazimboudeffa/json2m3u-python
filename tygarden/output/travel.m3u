@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Arcadia Television
+https://office.softer.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aunar
+https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Beach TV Florida & Alabama
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Beach TV Key West & Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Beach TV Myrtle Beach & The Grand Strand
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Beach TV Panama City
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Caribbean Traveling Network
+https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Costa Rica Channel
+https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cruise1st TV
+https://ythls.armelin.one/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dunas TV
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fun Roads
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/funroads_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GoTraveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Journy
+https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Journy
+https://linear-291.frequency.stream/mt/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Journy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Love in Venice
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Maldives TV
+https://live.maldivestv.mv/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nasha Sibir
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Peer TV Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Peer TV South Tyrol
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Peer TV Sudtirol
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Rutas del Peru
+https://tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTG TV
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sun Channel
+https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Teletur
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Travelxp
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Travelxp
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Turistik TV
+https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVart
+https://stream.osc.bg/tvart/Stream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVS Travel Network
+https://bozztv.com/gusa/gusa-tvstravel/index.m3u8

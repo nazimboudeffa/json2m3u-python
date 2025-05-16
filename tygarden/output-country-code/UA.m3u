@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",K1
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",1+1
+https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Avers
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Black Sea TV
+https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ITV
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Lugansk 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTK TV
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PORT-MONE.TV
+https://ythls.armelin.one/channel/UC2XLtyLSZ3XSAxvULZoV23g.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rivne 1
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telekanal RAI
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV7+
+https://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rada TV
+https://ythls.armelin.one/channel/UC5V8mErVFOpcQXEb3y9IMZw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",M2
+https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Apostrophe TV
+https://ythls.armelin.one/channel/UC0lnIB2qcArjFJPtq79WGZA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CENTR
+https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel 5
+https://ythls.armelin.one/channel/UCkyrSWEcjZKpIwMxiPfOcgg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",I-UA.tv
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",My-Ukraina TV
+https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTA
+https://ythls.armelin.one/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PTV
+https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ternopil 1
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TSN
+https://ythls.armelin.one/channel/UCXoJ8kY9zpLBEz-8saaT3ew.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ukraine World News
+https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EWTN Ukraine
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GNC America
+https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc3/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="",GNC Europe
+https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="",GNC Ukraine
+https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc2/playlist.m3u8?DVR=

@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aqtobe
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Atyray
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel One Eurasia
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jibek Joly
+https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mangystay
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Semei
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MuzzOne
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",24KZ
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",24KZ
+https://ythls.armelin.one/channel/UCnAFKvDuqBGkIfV8Vn0J_CQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Munara TV
+https://ythls.armelin.one/channel/UC4tTvzqFKK2Dpfp-qP47b1w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8

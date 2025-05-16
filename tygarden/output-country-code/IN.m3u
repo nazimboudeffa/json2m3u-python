@@ -1,0 +1,627 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CNBC TV18
+https://ythls.armelin.one/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ET Now
+https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ET Now
+https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NDTV Profit
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Business
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Business
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Business
+https://news.codeautoplay.workers.dev/?channel=zeebusiness&codeby=nd
+#EXTINF:-1 tvg-logo="" group-title="",DD Bharati
+https://ythls.armelin.one/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Punjabi
+https://ythls.armelin.one/channel/UC8GYp35wJTN2ituJr0y-7AQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Puducherry
+https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Kisan
+https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vyas Channel
+https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Amrita TV
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Anjan TV
+https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Malayalam
+https://ythls.armelin.one/channel/UC4--pPs1CVZvs60uuhfjdwQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Imayam TV
+https://server1.thewebworld.in:3114/live/iniyantvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Imayam TV
+https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kairali We
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",KCL TV
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kerala Vision
+https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Marutam TV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Public TV
+https://livestream.knowtable.xyz:5443/show/streams/Publictv_adaptive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Shemaroo TV
+https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
+#EXTINF:-1 tvg-logo="" group-title="",Sony Entertainment Television Asia HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony SAB
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony SAB
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
+#EXTINF:-1 tvg-logo="" group-title="",Thanthi One
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Agamvani Channel
+https://ythls.armelin.one/channel/UClOK2dPmq8k8Xwii_4TjRnQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CCV
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Bangla
+https://ythls.armelin.one/channel/UClcW8Lfj5zE67tvsQ27lb_g.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Chandana
+https://ythls.armelin.one/channel/UCbdMik2cV8pea1jcWdX_CYA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Girnar
+https://ythls.armelin.one/channel/UCneBFse451PgKgXJTDqikYA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD India
+https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Kashir
+https://ythls.armelin.one/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Manipur
+https://ddmanipur.org/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Podhigai
+https://ythls.armelin.one/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Sahyadri
+https://ythls.armelin.one/channel/UC-bdz-5EeUPT7lp7oSg4D5w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Tripura
+https://ythls.armelin.one/channel/UCtmSIB1S2LsT5OXC6H6x_rA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Urdu
+https://ythls.armelin.one/channel/UCu9Fj9QRAg26ZY9DhF8HSrQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Uttarakhand
+https://ythls.armelin.one/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Uttar Pradesh
+https://ythls.armelin.one/channel/UCxtPipsf2nUZ9xM33TPe93Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD Yadagiri
+https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GosreeVision
+https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Metro TV
+https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Starnet
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tribe TV
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV BRICS English
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VCV
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nickelodeon Sonic
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nick HD+
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nick Jr.
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sansad TV
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sansad TV
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sansad TV
+https://ythls.armelin.one/channel/UCISgnSNwqQ2i8lhCun3KtQg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Doctor Live
+https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kappa TV
+https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Filmeraa
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Indywood TV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Wah
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",9X Jalwa
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",9X Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",9X Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Adipoli
+https://live.hungama.com/linear/adipoli/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aditya Music
+https://ythls.armelin.one/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Artist Aloud
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dhamaal
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kalaignar Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Marutam Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mastiii
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mh 1 Music
+https://mhonepunjabi.in/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nazrana Music
+https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pop Pataka
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PTC Dhol TV
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PTC Music
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",10 TV
+https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",1Yes News
+https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",24 News
+https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",99TV
+https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A1 TV Rajasthan
+https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aaj Tak
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ABN Andhra Jyoti
+https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ABP Ananda
+https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ABP Asmita
+https://ythls.armelin.one/channel/UC3C6_1ETXfE807LltDbKYxg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ABP Ganga
+https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ABP Majha
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ABP Sanjha
+https://ythls.armelin.one/channel/UCYGZ0qW3w_dWExE3QzMkwZA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ABP Sanjha
+https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AKD Calcutta News
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AmarUjala
+https://ythls.armelin.one/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Anaadi TV
+https://ythls.armelin.one/channel/UCK1Sl8bNLay45FeL30BFdxQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",APN
+https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Argus News
+https://live.argusnews.in/hls/argustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Asianet News Kannada
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Asianet News Tamil
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bada Khabar
+https://badakhabar.livebox.co.in/Badakhabarhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bansal News
+https://ythls.armelin.one/channel/UCL_3_9PhDyZXu1oexm8gtFQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bharat24
+https://ythls.armelin.one/channel/UCCQmi1Bd-_tHRm6M2uPlGUA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bharat Samachar TV
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Btv News
+https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Captain News
+https://ythls.armelin.one/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CD News
+https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel Dinraat
+https://ythls.armelin.one/channel/UCILYNzZvWNUPaALmDJBIMAw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CNN News 18
+https://ythls.armelin.one/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CTVN AKD Plus
+https://ythls.armelin.one/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CVR News
+https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD News
+https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DD News
+https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dighvijay News 24x7
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Eagle One News
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Enlight News
+https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ETV Andhra Pradesh
+https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ETV Telangana
+https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",First India News
+https://ythls.armelin.one/channel/UC_cZYFovNQTsKw1ZLmO_AMA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",First India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FM News
+https://ythls.armelin.one/channel/UCwGojq7oNNrMNaAMtyBhK0Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Global Punjab
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Global Punjab
+https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Goa365
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Good News Today
+https://ythls.armelin.one/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GoodNews TV
+https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GS TV
+https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Gulistan News
+https://livestream.jktvonline.com/hls/gul.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Har Khabar
+https://ythls.armelin.one/channel/UCkfMPrLxnaGaKon4ccRJ9Tg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Gujarati
+https://ythls.armelin.one/channel/UCNQrca4WoGxtxWvabBI64gA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Haryana
+https://ythls.armelin.one/channel/UCISKj2--Nxrs5s60T3wq5Pg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Haryana
+https://livetv.newsx.com/itv/itvnetwork2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Madhya Pradesh/Chhattisgarh
+https://ythls.armelin.one/channel/UCrDfc0F8U1QN3u82Qq_6fjA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Madhya Pradesh/Chhattisgarh
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Punjab/Himachal
+https://livetv.newsx.com/itv/itvnetwork8/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Punjab/Himachal
+https://ythls.armelin.one/channel/UCaFBF255LGHwqSB35kN7jsA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Rajasthan
+https://ythls.armelin.one/channel/UCgJ02VYByDODEIkOlxjg4xg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Rajasthan
+https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India News Uttar Pradesh
+https://livetv.newsx.com/itv/itvnetwork3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Indywood TV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",INews
+https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",INH 24x7
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jan TV
+https://ythls.armelin.one/channel/UCjmnq35TvJ1J8JZS49OPg-Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",JK 24x7 News
+https://livestream.jktvonline.com/hls/jk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kairali News
+https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kanak News
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kashish News
+https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kerala Vision News
+https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",K News India
+https://knews.livebox.co.in/youtubehls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Living India News
+https://livelegitpro.in/hls14/livingindia/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Lokshahi News
+https://ythls.armelin.one/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mahaa News
+https://ythls.armelin.one/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Malaimurasu
+https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Manorama News
+https://ythls.armelin.one/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mathrubhumi News
+https://ythls.armelin.one/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Media One
+https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mh 1 News
+https://mhonenews.in/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Naxatra News
+https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News 11
+https://rtmp.smartstream.video/news11/news11/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Assam North-East
+https://ythls.armelin.one/channel/UCAjBd-r8JWfnRjfhg23nqLQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Bangla
+https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Bihar Jharkhand
+https://ythls.armelin.one/channel/UC531MlZA5LUbeGwEN_zcppw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Gujarati
+https://ythls.armelin.one/channel/UCqfX_f4rBbPhq_KESE4saCA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 India
+https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Kannada
+https://ythls.armelin.one/channel/UCa-vioGhe2btBcZneaPonKA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Kerala
+https://ythls.armelin.one/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Lokmat
+https://ythls.armelin.one/channel/UCrcpw88HvKJ0skdsHniCJtQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Madhya Pradesh/Chhattisgarh
+https://ythls.armelin.one/channel/UCBwc2cbPpvxNCNEI2-8YrqQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Odia
+https://ythls.armelin.one/channel/UCUK49UvmYWYLiB7_bZFuFZQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Punjab/Haryana/Himachal
+https://ythls.armelin.one/channel/UC-crZTQNRzZgzyighTKF0nQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Rajasthan
+https://ythls.armelin.one/channel/UC7FlLbNo66YsCEAPuJITiNg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Tamil Nadu
+https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Urdu
+https://ythls.armelin.one/channel/UC9IQhNgS43lmUdU-KdGyb0A.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News18 Uttar Pradesh Uttarakhand
+https://ythls.armelin.one/channel/UCafYgzpyw7aIUYOLjjADu7w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News 1 India
+https://ythls.armelin.one/channel/UCA9JOzo-2-0xAdihJkRKSyg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News 1st
+https://932y4563djv8-hls-live.qezycdn.com/newsfirst/cb582cc2f3b08e0bbd1c9f3d23541e26.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News 7 Tamil
+https://ythls.armelin.one/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News J
+https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News Live
+https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News Malayalam 24x7
+https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News Nation
+https://livetv-channels.b-cdn.net/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News Nation
+https://ythls.armelin.one/channel/UCsNdeLwEZf86swPD3qJJ7Dw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News State MP & CHG
+https://ythls.armelin.one/channel/UCz6sfaICYbi4LEXC-022qpg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News State UP & UK
+https://ythls.armelin.one/channel/UCeNP3dAy9_A32IWYZq_PZMQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News Tamil 24x7
+https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",News X
+https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Polimer News
+https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Polimer News
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Prameya News7
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pratham Khabar 24x7
+https://livelegitpro.in/hls2/newstime/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pratidin Time
+https://5b48d7e1b4bce.streamlock.net/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pratidin Time
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Prime9 News
+https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Prudent Media
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PTC News
+https://ythls.armelin.one/channel/UCQLEbraENUGWh6p1Rv664rQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PTC News
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Puthiya Thalaimurai
+https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Raj News 24x7
+https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Raj News Malayalam
+https://rajnewsmalayalam.ylivestream.com/rajnewsmalayalam/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Raj News Telugu
+https://ythls.armelin.one/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RDX Goa
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Reporter TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/reporter_nim_https/050522/reporter/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Reporter TV
+https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sadhna Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Samachar Plus 24x7
+https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Samay Kolkata
+https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sandesh News
+https://ythls.armelin.one/channel/UCiAH2s_M6nPfGZk-PpfyPkg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sathiyam TV
+https://ythls.armelin.one/channel/UC2ziCMHFPWkFHjocUMXT__Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",STV Haryana News
+https://ythls.armelin.one/channel/UC6Hd69A3RKgu6Dj52H53ZDw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sudarshan News
+https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sun News
+https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sun News
+https://news.codeautoplay.workers.dev/?channel=sunnews&codeby=nd
+#EXTINF:-1 tvg-logo="" group-title="",Suvarna News
+https://ythls.armelin.one/channel/UCjElJyiXmQXnWmceQ1JyKrA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Thanthi TV
+https://ythls.armelin.one/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Thanthi TV
+https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Times Now
+https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Times Now Navbharat
+https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV5 News
+https://ythls.armelin.one/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV9 Kannada
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Twenty Four News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",V6 News
+https://ythls.armelin.one/channel/UCDCMjD1XIAsCZsYHNMGVcog.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VBC News
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Venad News
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vismaya News
+https://ythls.armelin.one/channel/UCoOQDJS5K6v3g__qPcullxg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VTV News
+https://5b48d7e1b4bce.streamlock.net/myapp/vtvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VTV News
+https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WION
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WION
+https://wion-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Yoganadam News
+https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Delhi NCR Haryana
+https://ythls.armelin.one/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Kannada News
+https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Kannada News
+https://news.codeautoplay.workers.dev/?channel=zeekannada&codeby=nd
+#EXTINF:-1 tvg-logo="" group-title="",Zee News
+https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee News
+https://news.codeautoplay.workers.dev/?channel=zeenews&codeby=nd
+#EXTINF:-1 tvg-logo="" group-title="",Zee Telugu News
+https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Telugu News
+https://news.codeautoplay.workers.dev/?channel=zeetelugu&codeby=nd
+#EXTINF:-1 tvg-logo="" group-title="",DD Kisan
+https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aadinath TV
+https://ythls.armelin.one/channel/UCY8r_lukdRi5cK5wjK_O3qw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aaseervatham TV
+https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV Africa
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV America
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelamerica_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV Arabia
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV Australia
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV Chinese
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV Far East
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV Hebrew
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelhebrew_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV India
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV Portuguese
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV Spanish
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aradana TV
+https://ythls.armelin.one/channel/UCMnz0yLX3afzFc8y822YO5g.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ashrafi Channel
+https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Awakening TV
+https://ythls.armelin.one/channel/UCQ8kxAu_on_YzVPMjB03rqA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel Divya
+https://mcncdndigital.com/divyatv/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel WIN
+https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dheeran TV
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Grace Family TV
+https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Gregorian TV
+https://ythls.armelin.one/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Harvest TV
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Harvest TV Keralam
+https://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hope Channel India
+https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MH One Shraddha
+https://mhoneshaddha.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PMC Telugu
+https://ythls.armelin.one/channel/UCAxPB6BRBujBQwjO0Whg1Bg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Shalom
+https://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Shubhsandesh
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SVBC 3
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SVBC 4
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 4
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Sports Ten 5
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Travelxp
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Travelxp
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WeatherSpy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8

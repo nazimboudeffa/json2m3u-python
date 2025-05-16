@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",TVCARiB
+https://tvc.mediacaribstream.com:5443/LiveApp/streams/678996728477322762133253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVCARiB Latino
+https://tvc.mediacaribstream.com:5443/LiveApp/streams/503041699392698464410277.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",98.1 Pearl FM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVCARiB Gospel
+https://tvc.mediacaribstream.com:5443/LiveApp/streams/102810068706751773675303.m3u8

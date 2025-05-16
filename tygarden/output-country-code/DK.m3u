@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",DanmarkC TV
+https://ythls.armelin.one/channel/UC582CKg7XN_ELMyKiSZ8s9g.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Midtvest
+https://cdnapi.kaltura.com/p/1953371/sp/195337100/playManifest/entryId/1_qwqu2d0z/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Storbyen
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV from the Danish Parliament
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8

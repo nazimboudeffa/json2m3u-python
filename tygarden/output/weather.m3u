@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AccuWeather NOW
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fox Weather
+https://lnc-fox-weather.tubi.video/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fox Weather
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Fox Weather
+https://foxweather-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",KCKS-LD6
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",KTCA-DT5
+https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MeteoTV.TV
+https://ythls.armelin.one/channel/UCme7pPv6AZoSMsFbSYK0esg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NHK Kishou-Saigai
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",The Weather Network
+https://lnc-the-weather-network-canada.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WeatherNation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Weathernews
+https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Weathernews
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WeatherSpy
+https://jukin-weatherspy-2-ca.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WeatherSpy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WeatherSpy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WeatherSpy
+https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8

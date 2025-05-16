@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",ADOCCO TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alegre TV RD
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bellavision
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bonches Latinos TV
+https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cibaena TV
+https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Claro Vision TV
+https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",COCO TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",El 75 TV
+https://castv10.plugstreaming.com:19360/el75/el75.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HTV Live
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pula TV
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",R&E TV
+https://multimedia.tmcreativos.com:1936/ekhmygctur/ekhmygctur/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Somos Topo Point TV
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Super7FM
+https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",002 Radio TV
+https://cdn.002radio.com:3909/live/radio002live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Agenda 56 TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AION TV
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ame 47
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Antena 7
+https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Camino Real TV
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cana TV Digital
+https://livetv.305streamhd.com:3707/live/canatvdigitallive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cascara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CDN
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cinevision Canal 19
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Claro Television Dominicana
+https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ConstanzaTV
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cotubanama TV
+https://rdn.essastream.com:3539/live/cotubanamatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CromTV
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CTV Canal 76
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Digital809 TV
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Digital Vision 63
+https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dimelo TV
+https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FRATA TV
+https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Haina Vision
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Latina TV Internacional
+https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MiTV
+https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MorroTV
+https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nisibon TV
+https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Onda TV
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Pinpon TV
+https://vdo2.streamgato.us:3613/live/pinpontvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Red Social Codi TV
+https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",San Isidro TV
+https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telealtura
+https://5790d294af2dc.streamlock.net/telealtura/telealtura/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV 10 San Juan
+https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Vision
+https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Valle Nuevo TV
+https://tv.essastream.com:3591/live/vallenuevotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vegavision Canal 18
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",VTV Canal 32
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Xtremo Channel
+https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Chinola TV
+https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ADOCCO TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Policia TV
+https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EStylo TV
+https://vdo2.streamgato.us:3035/live/estylotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Area 809 El Original
+https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LA MIA TV
+https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mun2TV
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rumba 98.5 FM
+https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Somos Topo Point TV
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tu Musica HD
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ADOCCO TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Antena 21
+https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Carivision
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Citrico TV
+https://rdn.essastream.com:3996/live/citricotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Policia TV
+https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RDN
+https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RNN
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TRA 2
+https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_dabf38f04a9d11ee8eeb577c693b7d74/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TRA Noticias
+https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_5d48c3204a9b11eea0c82f8ad2e16732/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cielo TV
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GH Television
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jazmin TV
+https://tvdatta.com:3957/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TeleBendicion
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bajo Techo TV
+https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Caribbean Traveling Network
+https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Teletur
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8

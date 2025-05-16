@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",NEK4 Culture
+https://helga.iptv2022.com/sh/NEK4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BB 24
+https://edge15.vedge.infomaniak.com/livecast/ik:bb24-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",KassouaTV
+https://glb.bozztv.com/glb/ssh101/kassouatvstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nord Benin TV
+https://glb.bozztv.com/glb/ssh101/nordbenintv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Soleil Levant TV
+https://helga.iptv2022.com/sh/SOLEIL_LEVANT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Benin Web TV
+https://vdo.pro-fhi.net:3244/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MEC TV
+https://webstreaming.viewmedia.tv/web_004/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ADO TV
+https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Channel 13
+https://ythls.armelin.one/channel/UCevtg3pYdyr0EaWSAQMwUgA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Channel 13
+https://stream.theyraonline.com/live/channel13@live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SSTV
+https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dhaaris TV
+https://ythls.armelin.one/channel/UCmTIhD3NGdWo04RlF91L4uw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ocean TV Network
+https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Raajje TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dhaaris TV
+https://ythls.armelin.one/channel/UCmTIhD3NGdWo04RlF91L4uw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Maldives TV
+https://live.maldivestv.mv/hls/stream/index.m3u8

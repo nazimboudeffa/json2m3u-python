@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",504 TV
+https://mediacp.us:8081/504tvhn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 15 DTP
+https://s.emisoras.tv:8081/dtp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EDN TV
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Girasol TV
+https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Metro TV
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Omega TV
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telerayo
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Centro 27.2 HD
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Talanga TV Canal 39
+https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Activa TV
+https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alsacias Television
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AZA TV HD
+https://mediacp.us:8081/azatvhd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Azteca Honduras
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 32 STO
+https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 51
+https://tvcn51.com/hls/cn51480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal 7 Talanga Vision
+https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CR Television Choluteca
+https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CTV Internacional
+https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Junco Tv
+https://mediacp.us:8081/juncotv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Litoral Atlantico HD
+https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Paradise TV
+https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Puringla TV
+https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",San Ignacio TV
+https://amixtv.live:3753/live/sitvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sula TV
+https://livestreamhd.us/sulatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sula TV
+https://sulatv1.ddns.net/hls/live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telavision
+https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Telemas
+https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Television Metropolis 19.1
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Television Metropolis 19.2
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Centro HD
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV MAS HD
+https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Vallevision
+https://mediacp.us:8081/vallevision/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Waldivision Internacional
+https://videoserver.ideskhn.com:3863/live/waldivisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Imagen FM 105.1
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La 98.1 TV
+https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La Top 102.9
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",La Top 107.7
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",45 TV
+https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Mas Noticias Television
+https://www.amixtv.com:8081/mntvh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Maya TV
+https://media.streambrothers.com:19360/8356/8356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RCV TV
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CCI Channel
+https://cdn.playcloud.us/cci/srtin3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Choluteca TV
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dios Te Ve
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ebenezer TV
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EN TV
+https://cp.cast-live.net:1936/exodotv/exodotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Inmaculada TV
+https://rpn3.bozztv.com/ssh101/ssh101/inmaculadatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jehova TV
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TDV TV
+https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8

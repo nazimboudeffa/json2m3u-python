@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Aleph Business
+https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Canal33
+https://ythls.armelin.one/channel/UChXVCKn5sa-e-bNXjX47lJw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",JOB TV
+https://jobtvvideo.space/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bollywood Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hello Taste
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Arcadia Television
+https://office.softer.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A7TV
+https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ardeal TV
+https://frn.rtsp.me/wzhx8pmNF7-kstp_J0AdjA/1695647213/hls/yZ9ED27Q.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Arges TV
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dobrogea TV
+https://ythls.armelin.one/channel/UCmYNKMD89Xaxnqg2t-LeZgQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HD365 TV
+https://testcam.go.ro:8080/hls/hd365.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Hunedoara 1
+https://testcam.go.ro:8080/hls/hd1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IasiTV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kanal D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kapital TV
+https://testcam.go.ro:8080/hls/livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PROFI 24 TV
+https://profi24-u3391.vm.elestio.app/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Qub TV
+https://live.djemba.ro/live/qubtvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Radio Televizunea Diasporei
+https://video2.lhdserver.es/diasporei/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Smart TV
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tele7ABC HD
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV Arad
+https://live.djemba.ro/live/tvaradlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVR International
+https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Senate of Romania
+https://ythls.armelin.one/channel/UCpZswGPkx4fBwaZ_U5scXDw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cardio TV SRC
+https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CaTine
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MediCOOL TV
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bollywood Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Exclusiv TV
+https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Tezaur TV
+https://testcam.go.ro:8080/hls/tezaurtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Dotto TV
+https://dotto.edvr.ro/live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Euronews Romania
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Info TV Romania
+https://vmi347009.contaboserver.net/live/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Observator News
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Ploiesti TV
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Profit News
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Profit News
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PROTV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="" group-title="",TV SUD
+https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Agro TV
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Angelus TV
+https://transmisiuni.ro/media/oracatolica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Credo TV
+https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Maria TV
+https://ythls.armelin.one/channel/UCMXP2cd--EkenT6FaE9rAjw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MISA TV
+https://vid4.misatv.ro:5050/MSTV/romanian/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SperantaTV
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AntenaSport
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Realitatea Sportiva
+https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Arcadia Television
+https://office.softer.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MeteoTV.TV
+https://ythls.armelin.one/channel/UCme7pPv6AZoSMsFbSYK0esg.m3u8

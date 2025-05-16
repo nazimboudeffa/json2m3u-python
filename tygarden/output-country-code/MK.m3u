@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",TV ERA
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Alsat
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Kanal 5
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Makedonsko Sonce
+https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MTM
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Nasa TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sutel TV
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",M-Net Kids
+https://giganet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jazz TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rock TV
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Folk TV
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Folk TV
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Star Folk TV
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Star Plus Televizija
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",M-Net Info
+https://giganet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",M-Net Sport
+https://giganet.mk/hls/mnet-sport.m3u8

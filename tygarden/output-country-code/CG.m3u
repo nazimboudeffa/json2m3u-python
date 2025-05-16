@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Ev-tele
+https://tgn.bozztv.com/ssh101/ssh101/evtele/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",EaDTV CONGO
+https://ythls.armelin.one/channel/UCdBQfm4truef3mDSYHDS0ig.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Beb TV
+https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MCR TV NF
+https://ythls.armelin.one/channel/UCwashcXWqSHTBVRO1V_qZ5w.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTI TV
+https://helga.iptv2022.com/NTI_Television/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SYNTY TV
+https://helga.iptv2022.com/sh/SYNTY_TV/index.m3u8

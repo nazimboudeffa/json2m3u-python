@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Saab TV
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SNTV Daljir
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
